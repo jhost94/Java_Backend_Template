@@ -1,15 +1,8 @@
-#Test word
-##Test word
-###Test word
-####Test word
-######Test word
-######Test word
-
-#Description
+# Description
 This is a Java Backend template, designed to be generic, yet versatile.
 Over the time I will improve and add/adapt to new technologies I come across and find important to add or change here.
 
-#Instructions
+# Instructions
 1. Clone/download/fork the repo.
 2. Change most/all "template" names in this project to your project name/title.
 3. To run the DataBase you'll need docker installed. Use:
